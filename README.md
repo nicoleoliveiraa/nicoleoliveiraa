@@ -1,6 +1,6 @@
 ## Hi there! I'm Nicole Oliveira 🌟
 
-- 👩‍💻 Career-changer from Law to Code
+- 👩‍💻 Career-changer to Code
 - 🎓 Currently diving into programming at 42 Porto
 - 🌎 Exploring tech with curiosity and passion arround world 
 
