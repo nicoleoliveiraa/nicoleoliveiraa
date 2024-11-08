@@ -15,7 +15,7 @@ After years in law, I’ve found in programming a new frontier of logic, creativ
   <br>
 </div>
 <div align="center">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/nsouza-o" alt="nsouza-o's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/nsouza-o" alt="nsouza-o's 42 stats" /></a>
 </div>
 <div>
   <br>
