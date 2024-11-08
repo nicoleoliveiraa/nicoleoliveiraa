@@ -15,7 +15,10 @@ After years in law, I’ve found in programming a new frontier of logic, creativ
   <br>
 </div>
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nicoleoliveiraa&show_icons=true&theme=synthwave&count_private=true" alt="My GitHub Stats" height="150px"/>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/nsouza-o" alt="nsouza-o's 42 stats" /></a>
+</div>
+<div align="center">
+  <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoleoliveiraa&layout=compact&theme=synthwave&count_private=true" style="margin: 10px" alt="My GitHub Stats" height="150px"/>
 </div>
 <div>
