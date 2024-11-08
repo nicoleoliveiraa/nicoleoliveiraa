@@ -7,7 +7,7 @@
 After years in law, I’ve found in programming a new frontier of logic, creativity, and challenges. From crafting arguments to crafting code, my journey is about continuous learning and growing through every project. I'm always open to new collaborations, learning opportunities, and expanding my skills. Let’s build something cool together!
 </div>
   
-  ## 42 Student
+  ## 
  
 <div> 
 <div>
@@ -16,15 +16,6 @@ After years in law, I’ve found in programming a new frontier of logic, creativ
 </div>
 <div align="center">
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/nsouza-o" alt="nsouza-o's 42 stats" /></a>
-</div>
-  </div>
-  
-  ## My Tools
- 
-<div> 
-<div align="center">
-  <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicoleoliveiraa&layout=compact&theme=synthwave&count_private=true" style="margin: 10px" alt="My GitHub Stats" height="150px"/>
 </div>
 <div>
   <br>
